@@ -3,7 +3,7 @@ package messengerclient;
 public class LogInPanel extends javax.swing.JPanel {
 
     /** Creates new form LogInPanel */
-    public LogInPanel() {
+    public LogInPanel() { 
         initComponents();
     }
 
