@@ -19,7 +19,7 @@ public class Clients implements Runnable
     ServerManager serverManager;
     int clientNumber;
     ClientListener clientListener;
-
+ 
     public Clients(ClientListener getClientListener,Socket getClient,ServerManager getServerManager,int getClientNumber)
     {
         client=getClient;
