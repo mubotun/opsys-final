@@ -1,6 +1,6 @@
 package MessengSrserver;
 
-
+ 
 public interface ClientListener
 {
     void signIn(String userName);
