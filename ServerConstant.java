@@ -1,6 +1,6 @@
 package MessengSrserver;
 
-
+ 
 public interface ServerConstant
 {
     public static final int SERVER_PORT=12345;
